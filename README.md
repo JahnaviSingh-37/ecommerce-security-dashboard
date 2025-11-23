@@ -308,7 +308,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - GitHub: [@JahnaviSingh-37](https://github.com/JahnaviSingh-37)
 - Email: jahnavisingh37@example.com
-- LinkedIn: [linkedin.com/in/jahnavi-singh](https://linkedin.com/in/jahnavi-singh)
+- LinkedIn: [linkedin.com/in/jahnavi123604](https://www.linkedin.com/in/jahnavi123604/)
 
 ---
 
